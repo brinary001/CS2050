@@ -1,0 +1,20 @@
+mileage|76286|color|red|price|9635|type|car|year|1990|make|pontiac|model|grand am|
+price|7593|make|mercedes|model|corvette|color|red|mileage|14780|year|1973|type|suv|
+price|37487|type|suv|model|sonata|year|1953|color|turquise|make|fake|mileage|1792|
+mileage|24610|model|chevrolet|type|truck|year|1958|make|porche|price|15413|color|turquise|
+type|truck|mileage|99732|model|f150|color|yellow|make|bmw|price|24605|year|1993|
+year|1987|make|mercedes|model|cruz|mileage|19796|color|turquise|price|38990|type|truck|
+mileage|79231|color|blue|make|porche|type|van|year|1974|model|forester|price|21866|
+model|camaro|price|45051|color|red|type|van|year|2000|mileage|69467|make|dodge|
+year|1999|model|rubicon|make|subaru|mileage|31032|price|33350|color|silver|type|van|
+model|excursion|color|silver|price|8539|year|1952|mileage|96102|make|pontiac|type|truck|
+mileage|6640|color|blue|price|23160|year|1971|type|suv|make|dodge|model|cruz|
+color|purple|model|chevrolet|make|audi|mileage|96021|year|2010|type|car|price|25530|
+year|1963|type|car|price|35456|model|caravan|make|buick|mileage|79394|color|red|
+year|2006|color|red|model|caravan|make|doesn't exist|mileage|59453|type|van|price|30351|
+color|orange|make|ford|mileage|57421|price|15727|year|2007|model|corvette|type|suv|
+type|suv|color|silver|mileage|56706|make|jeep|year|1957|model|350z|price|5075|
+model|350z|type|van|color|purple|year|1951|price|36263|mileage|42674|make|ferrari|
+type|car|price|9941|make|bmw|model|corvette|year|1972|color|silver|mileage|40160|
+price|5158|model|cavalier|make|doesn't exist|year|1987|mileage|83570|color|unknown|type|suv|
+color|blue|type|suv|price|27419|model|excursion|year|1975|make|pontiac|mileage|26766|
